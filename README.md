@@ -26,13 +26,13 @@ Antes de rodar o projeto, você precisa ter:
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/uDoug/BuscadorCEP.git
 ```
 
 2. **Acesse a pasta do projeto:**
 
 ```bash
-cd nome-do-repositorio
+cd a3-cep-web
 ```
 
 3. **Instale as dependências:**
@@ -75,4 +75,4 @@ Acesse [http://localhost:5173](http://localhost:5173) (caso esteja usando Vite) 
 
 ## 🧾 Autor
 
-Dougllasa Vieira Damascena dos Santos.
+Douglas Vieira Damascena dos Santos.

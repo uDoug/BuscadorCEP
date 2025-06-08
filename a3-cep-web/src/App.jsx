@@ -55,8 +55,8 @@ function App() {
     } catch (error) {
       Swal.fire({
         icon: "info",
-        title: "Tente novamento!",
-        text: "Falha ao consultar, Tente novmente! ", 
+        title: "Tente novamente!",
+        text: "Falha ao consultar, Tente novamente! ", 
       });
       console.log(error)
       return
