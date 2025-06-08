@@ -1,0 +1,32 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+#btn{
+  margin-top: 10px;
+  border-color: white;
+}
+
+#btn:hover{
+  scale: 1.2;
+}
+
+.cepForm input{
+  height: 30px;
+}
+
+.resultBox{
+  display: flex;
+  flex-direction: column;
+  align-items: baseline;
+  
+}
+
+
+
+.resultBox a{
+  color: rgb(0, 253, 0);
+}
