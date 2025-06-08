@@ -25,31 +25,31 @@ Antes de rodar o projeto, você precisa ter:
 
 1. **Clone o repositório:**
 
-\`\`\`bash
+```bash
 git clone https://github.com/seu-usuario/nome-do-repositorio.git
-\`\`\`
+```
 
 2. **Acesse a pasta do projeto:**
 
-\`\`\`bash
+```bash
 cd nome-do-repositorio
-\`\`\`
+```
 
 3. **Instale as dependências:**
 
-\`\`\`bash
+```bash
 npm install
 # ou
 yarn
-\`\`\`
+```
 
 4. **Inicie o servidor de desenvolvimento:**
 
-\`\`\`bash
+```bash
 npm run dev
 # ou
 yarn dev
-\`\`\`
+```
 
 5. **Abra no navegador:**
 
@@ -66,17 +66,6 @@ Acesse [http://localhost:5173](http://localhost:5173) (caso esteja usando Vite) 
 
 ---
 
-## 📁 Estrutura básica do projeto
-
-\`\`\`
-src/
-├── App.css
-├── App.jsx
-├── main.jsx
-└── ...
-\`\`\`
-
----
 
 ## 📸 Exemplo de uso
 
@@ -84,6 +73,6 @@ src/
 
 ---
 
-## 🧾 Licença
+## 🧾 Autor
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
+Dougllasa Vieira Damascena dos Santos.
